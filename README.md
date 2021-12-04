@@ -1,2 +1,2 @@
-# 755
-Sleirsgoevy Host For 7.55 with GoldHEN 2.0
+host 7.55 
+https://kg-patch.github.io/news-host-7.55-v3.1/index.html
